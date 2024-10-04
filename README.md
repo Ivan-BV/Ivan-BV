@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Iván</h1>
 <h3 align="center">A passionate junior developer from Spain</h3>
 
-- 📂 My last project is [Crypto App](https://github.com/Ivan-BV/crypto-app.git)
+- 📂 My last project is [laboratorio-modulo1-leccion02-Regex](https://github.com/Ivan-BV/laboratorio-modulo1-leccion02-Regex)
 
 - 🔭 I'm currently working on my portfolio with **React.js** (On local repository)
 
