@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Iván</h1>
-<h3 align="center">A passionate junior developer from Spain</h3>
+<h1 align="center">👋 Hi I'm Ivan 👋</h1>
+<h3 align="center">📊 Data Scientist in progress 📊</h3>
 
 - 📂 My last project is [laboratorio-modulo1-leccion02-Regex](https://github.com/Ivan-BV/laboratorio-modulo1-leccion02-Regex)
 
