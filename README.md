@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋 I'm Iván</h1>
-<h3 align="center">A passionate junior developer from Spain</h3>
+<h1 align="center">👋 Hi I'm Ivan 👋</h1>
+<h3 align="center">📊 Data Scientist in progress 📊</h3>
 
 <img src="imagenes/perfil.webp"/>
 
 - 📂 My last project is [laboratorio-modulo1-leccion02-Regex](https://github.com/Ivan-BV/laboratorio-modulo1-leccion02-Regex)
 
+<<<<<<< HEAD
 - 🔭 I'm currently working on my portfolio with **React.js** (On local repository)
 
+=======
+>>>>>>> a90474138b4b4dc1505f70a057b0789dcd27d57f
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Flutter**
 
-- 👨‍💻 All of my projects are available at {portfolio.link.isNotEmpty ? portfolio.link : "(Coming soon)"}
+- 👨‍💻 All of my projects are available below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
