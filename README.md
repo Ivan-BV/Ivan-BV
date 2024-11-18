@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Ivan 👋</h1>
 <h3 align="center">📊 Data Scientist in progress 📊</h3>
 
-<img src="imagenes/perfil.webp" style="width: 75%"/>
+<img src="imagenes/perfil.webp"/>
 
 - 📂 My last project is [laboratorio-modulo1-leccion02-Regex](https://github.com/Ivan-BV/laboratorio-modulo1-leccion02-Regex)
 
