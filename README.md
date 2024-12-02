@@ -3,7 +3,7 @@
 
 <img src="imagenes/perfil.webp"/>
 
-- 📂 My last project is [laboratorio-modulo1-leccion02-Regex](https://github.com/Ivan-BV/laboratorio-modulo1-leccion02-Regex)
+- 📂 My last project is [proyecto8-PrediccionEmpleados](https://github.com/Ivan-BV/proyecto8-PrediccionEmpleados)
 
 - 🌱 I’m currently learning **Python**
 
