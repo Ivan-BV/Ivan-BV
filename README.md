@@ -3,7 +3,7 @@
 
 <img src="imagenes/perfil.webp"/>
 
-- 📂 My last project is [proyecto8-PrediccionEmpleados](https://github.com/Ivan-BV/proyecto8-PrediccionEmpleados)
+- 📂 My last project is [proyecto9-Clustering-y-Regresion](https://github.com/Ivan-BV/proyecto9-Clustering-y-Regresion)
 
 - 🌱 I’m currently learning **Python**
 
