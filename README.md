@@ -3,7 +3,7 @@
 
 <img src="imagenes/perfil.webp"/>
 
-- 📂 My last project is [proyecto9-Clustering-y-Regresion](https://github.com/Ivan-BV/proyecto9-Clustering-y-Regresion)
+- 📂 My last project is [recomendador-streamers](https://github.com/Ivan-BV/recomendador-streamers)
 
 - 🌱 I’m currently learning **Python**
 
